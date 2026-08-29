@@ -36,7 +36,6 @@ psutil==7.2.2
 pyarrow==23.0.1
 pydeck==0.9.1
 pyparsing==3.3.2
-python_version == 3.11
 python-dateutil==2.9.0.post0
 pytz==2026.1.post1
 rdkit==2025.9.6
